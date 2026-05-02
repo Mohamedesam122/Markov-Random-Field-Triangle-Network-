@@ -164,8 +164,14 @@ Instead of defining probabilities directly, we:
 ---
 
 ## 👨‍💻 Authors
-Ahmed Tarek
-Ahmed Ibrahim
-Mohammed Essam
-Abdelrahman Emad
-Esam Mamdouh
+
+- Ahmed Tarek  
+- Ahmed Ibrahim
+- Mohamed Esam 
+- Abdelrahman Emad 
+- Esam Mamdouh 
+
+Faculty of Computers & Artificial Intelligence  
+Cairo University
+
+---
